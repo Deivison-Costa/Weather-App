@@ -11,10 +11,6 @@
 ## Install the required dependencies using npm or yarn:
     npm install
 ## Create a free account on OpenWeatherMap and get an API key. 
-    const response = await axios.get(
-        `https://api.openweathermap.org/data/2.5/weather?q=${this.location}&units=metric&appid=YOUR_API_KEY`
-    );
-
 - https://openweathermap.org/api
 - Replace YOUR_API_KEY in src/components/WeatherForm.vue with your actual API key.
 ## Install the required dependencies:
