@@ -23,7 +23,7 @@
       async getWeather() {
         try {
           const response = await axios.get(
-            `https://api.openweathermap.org/data/2.5/weather?q=${this.location}&units=metric&appid=647c8782e6ac6591b86b24bc9c7d0e40`
+            `https://api.openweathermap.org/data/2.5/weather?q=${this.location}&units=metric&appid=YOUR_API_KEY`
           );
           this.$emit("weatherData", response.data);
         } catch (error) {
