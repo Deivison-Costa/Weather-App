@@ -5,7 +5,7 @@
 
 # Installation and Setup
 ## Clone the repository to your local machine using the following command:
-    git clone https://github.com/Deivison-Costa/Weather-App.com
+    git clone https://github.com/Deivison-Costa/Weather-App
 ## Navigate to the project directory:
     cd weather-app
 ## Install the required dependencies using npm or yarn:
