@@ -18,9 +18,9 @@
 - https://openweathermap.org/api
 - Replace YOUR_API_KEY in src/components/WeatherForm.vue with your actual API key.
 ## Install the required dependencies:
-**Vue.js**: A progressive JavaScript framework for building user interfaces.
-**Axios**: A promise-based HTTP client for making API requests.
-**Bootstrap**: A popular CSS framework for creating responsive and mobile-first websites.
+- **Vue.js**: A progressive JavaScript framework for building user interfaces.
+- **Axios**: A promise-based HTTP client for making API requests.
+- **Bootstrap**: A popular CSS framework for creating responsive and mobile-first websites.
 
 # Usage
 ## To start the application, run the following command in the project directory:
