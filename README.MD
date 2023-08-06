@@ -3,6 +3,9 @@
 - The Weather App is a real-time weather application built using Vue.js. It allows users to check the weather information of a specific location. 
 - Users can enter the name of a city and get the current weather details, including temperature and humidity.
 
+![Figure_1](https://github.com/Deivison-Costa/Tasks-Manager/assets/112001225/4fafebc1-75c7-49d4-9a00-f1e7607b54e1)
+![Figure_2](https://github.com/Deivison-Costa/Tasks-Manager/assets/112001225/adbd2223-3eff-4ea4-95cb-aaf23fcb3d7b)
+
 # Installation and Setup
 ## Clone the repository to your local machine using the following command:
     git clone https://github.com/Deivison-Costa/Weather-App
